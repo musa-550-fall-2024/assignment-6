@@ -17,6 +17,6 @@ in the [final project proposal repository](https://github.com/musa-550-fall-2024
 The notebook for part 2 should be submitted to your own private repository on GitHub, 
 which can be created using the following link:
 
-### Submission
+## Submission
 
 https://classroom.github.com/a/zC414WQf
